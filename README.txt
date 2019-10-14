@@ -12,3 +12,5 @@ Getbowtied call-to-action buttons.
 
 = 1.0.0 =
 - Initial version
+= 1.0.0 =
+- Changed Purchase button color
